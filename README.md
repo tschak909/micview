@@ -1,6 +1,6 @@
 # micview
 
-A simple Micro Painter image viewer written in CC65.
+A simple Micro Painter image viewer for Atari 8-bit systems, written in CC65.
 
 ## Usage
 
